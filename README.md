@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm [Shailja yadav]</h1>
-<h3 align="center">A Passionate Frontend Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=435&lines=I+love+coding+frontend+apps;React+%7C+Next.js+%7C+TypeScript" alt="Typing SVG" />
