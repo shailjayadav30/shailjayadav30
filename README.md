@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm [Shailja yadav]</h1>
 <h3 align="center">A Full Stack Developer</h3>
-<h3 align="center">Profile Views</h3>
-
 <p align="center">
+<h3  align="center">Profile Views</h3>
   <img src="https://komarev.com/ghpvc/?username=shailjayadav30&label=Profile%20views&color=0e75b6&style=flat" alt="shailjayadav" />
 </p>
 <p align="center">
