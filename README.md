@@ -42,20 +42,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
-
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=shailjayadav30&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shailjayadav30&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailjayadav30&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailjayadav30&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailjayadav30&show_icons=true&theme=radical&cache_seconds=1800)
 
----
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailjayadav30&layout=compact&theme=radical&cache_seconds=1800)
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shailjayadav30&theme=radical&border_radius=5)](https://git.io/streak-stats)
