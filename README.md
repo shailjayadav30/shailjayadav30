@@ -14,7 +14,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shailja-yadav-643853252)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-website-beige-three-63.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=githubpages&logoColor=white)](https://portfolio-three-hazel-54.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shailjayadav30)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Shailja5911)
 
@@ -80,7 +80,7 @@
 ## 📫 Contact Me
 
 📧 Email: shailjayadav7275@gmail.com  
-🌐 Portfolio: [my portfolio](https://portfolio-website-beige-three-63.vercel.app/)
+🌐 Portfolio: [my portfolio](https://portfolio-three-hazel-54.vercel.app/)
 
 ---
 
