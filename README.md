@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shailja Yadav</h1>
+<!-- <h1 align="center">Hi 👋, I'm Shailja Yadav</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
@@ -81,4 +81,142 @@
 
 ---
 
-⭐️ Don’t forget to star and follow if you like my work!
+⭐️ Don’t forget to star and follow if you like my work! -->
+
+
+
+
+
+
+
+<div align="center">
+
+# 👋 Hi, I'm Shailja Yadav
+
+### Full Stack Developer • React & Next.js Developer • Open Source Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+
+I enjoy working across the entire development stack—from designing beautiful user interfaces to developing secure backend APIs and databases.
+
+- 💻 Building Full Stack Applications
+- 🌱 Continuously learning new technologies
+- ⚡ Passionate about clean architecture & best practices
+- 🎯 Always looking for challenging projects
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+</p>
+
+---
+
+## ⚙ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+---
+
+## 🔧 Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bun" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+- AI Applications
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Vector Databases
+- System Design
+- Cloud Deployment
+
+---
+
+# 📈 GitHub Activity
+
+> GitHub Stats are temporarily unavailable because the public Vercel deployment is paused.
+
+When the services are back online, uncomment these:
+
+```md
+<!--
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+-->
+```
+
+---
+
+# 🌟 What I Love Building
+
+✨ Modern Web Applications
+
+✨ Full Stack SaaS Projects
+
+✨ REST APIs
+
+✨ Authentication Systems
+
+✨ Dashboards
+
+✨ Developer Tools
+
+✨ AI Powered Applications
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+<a href="https://github.com/shailjayadav30">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."*
+
+</div>
