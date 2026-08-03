@@ -89,134 +89,131 @@
 
 
 
+
+
+
 <div align="center">
 
-# 👋 Hi, I'm Shailja Yadav
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Shailja Yadav**
 
-### Full Stack Developer • React & Next.js Developer • Open Source Learner
+### 🚀 Full Stack Developer | React & Next.js Enthusiast | Backend Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+Developer;Backend+Developer;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
+
+<p>
+<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=shailjayadav30&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 💫 About Me
 
-I'm a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+```ts
+const shailja = {
+    role: "Full Stack Developer",
+    location: "India 🇮🇳",
 
-I enjoy working across the entire development stack—from designing beautiful user interfaces to developing secure backend APIs and databases.
+    currentlyLearning: [
+        "System Design",
+        "AI",
+        "RAG",
+        "Cloud"
+    ],
 
-- 💻 Building Full Stack Applications
-- 🌱 Continuously learning new technologies
-- ⚡ Passionate about clean architecture & best practices
-- 🎯 Always looking for challenging projects
+    askMeAbout: [
+        "React",
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "PostgreSQL"
+    ],
+
+    funFact: "I love turning ideas into real products 🚀"
+}
+```
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 </p>
 
----
-
-## ⚙ Backend
+### ⚙ Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
----
-
-## 🗄 Database
+### 🗄 Database & ORM
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
+</p>
+
+### 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bun,vercel" />
 </p>
 
 ---
 
-## 🔧 Tools & Technologies
+# 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bun" />
-</p>
-
----
-
-## 📚 Currently Exploring
-
-- AI Applications
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Vector Databases
-- System Design
-- Cloud Deployment
+| Project | Description |
+|---------|-------------|
+| 🌿 **Jungle Safari** | Full Stack booking platform with authentication, payments & admin dashboard |
+| 🤖 **Persona AI** | AI powered chatbot built with Gemini, Next.js & Prisma |
+| 📊 **Market Seasonality Explorer** | Binance analytics dashboard with interactive charts |
+| 📝 **Developer Blog Platform** | Markdown powered blog with authentication & admin panel |
 
 ---
 
-# 📈 GitHub Activity
+# 🌱 Currently Exploring
 
-> GitHub Stats are temporarily unavailable because the public Vercel deployment is paused.
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- 🔥 Retrieval Augmented Generation (RAG)
+- 🏗 System Design
+- ☁ Cloud Deployment
 
-When the services are back online, uncomment these:
+---
+
+# 📈 GitHub Analytics
+
+> **Currently unavailable because the public Vercel deployment is paused.**
 
 ```md
 <!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+GitHub Stats
+Top Languages
+Contribution Graph
+Trophies
 -->
 ```
 
 ---
 
-# 🌟 What I Love Building
-
-✨ Modern Web Applications
-
-✨ Full Stack SaaS Projects
-
-✨ REST APIs
-
-✨ Authentication Systems
-
-✨ Dashboards
-
-✨ Developer Tools
-
-✨ AI Powered Applications
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-<a href="https://github.com/shailjayadav30">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
-
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 💭 *"First, solve the problem. Then, write the code."*
 
-*"Code. Learn. Build. Repeat."*
+⭐ **Thanks for visiting my profile!**
 
 </div>
+
+
