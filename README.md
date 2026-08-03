@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hi 👋, I'm Shailja Yadav</h1>
+<h1 align="center">Hi 👋, I'm Shailja Yadav</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="center">
@@ -44,15 +44,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shailjayadav30&theme=gruvbox&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shailjayadav30&show_icons=true&theme=radical&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shailjayadav30&layout=compact&theme=radical&cache_seconds=1800)
 ## 🔥 Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shailjayadav30&theme=radical&border_radius=5)](https://git.io/streak-stats)
@@ -81,7 +73,7 @@
 
 ---
 
-⭐️ Don’t forget to star and follow if you like my work! -->
+⭐️ Don’t forget to star and follow if you like my work! 
 
 
 
@@ -91,129 +83,5 @@
 
 
 
-
-<div align="center">
-
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Shailja Yadav**
-
-### 🚀 Full Stack Developer | React & Next.js Enthusiast | Backend Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Always+Learning+New+Technologies" />
-
-<p>
-<a href="https://linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://portfolio.com"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=shailjayadav30&label=Profile%20Views&color=0e75b6&style=flat"/>
-
-</div>
-
----
-
-# 💫 About Me
-
-```ts
-const shailja = {
-    role: "Full Stack Developer",
-    location: "India 🇮🇳",
-
-    currentlyLearning: [
-        "System Design",
-        "AI",
-        "RAG",
-        "Cloud"
-    ],
-
-    askMeAbout: [
-        "React",
-        "Next.js",
-        "Node.js",
-        "MongoDB",
-        "PostgreSQL"
-    ],
-
-    funFact: "I love turning ideas into real products 🚀"
-}
-```
-
----
-
-# ⚡ Tech Stack
-
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
-</p>
-
-### ⚙ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database & ORM
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white"/>
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,bun,vercel" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🌿 **Jungle Safari** | Full Stack booking platform with authentication, payments & admin dashboard |
-| 🤖 **Persona AI** | AI powered chatbot built with Gemini, Next.js & Prisma |
-| 📊 **Market Seasonality Explorer** | Binance analytics dashboard with interactive charts |
-| 📝 **Developer Blog Platform** | Markdown powered blog with authentication & admin panel |
-
----
-
-# 🌱 Currently Exploring
-
-- 🤖 Artificial Intelligence
-- 🧠 Large Language Models
-- 🔥 Retrieval Augmented Generation (RAG)
-- 🏗 System Design
-- ☁ Cloud Deployment
-
----
-
-# 📈 GitHub Analytics
-
-> **Currently unavailable because the public Vercel deployment is paused.**
-
-```md
-<!--
-GitHub Stats
-Top Languages
-Contribution Graph
-Trophies
--->
-```
-
----
-
-<div align="center">
-
-### 💭 *"First, solve the problem. Then, write the code."*
-
-⭐ **Thanks for visiting my profile!**
-
-</div>
 
 
